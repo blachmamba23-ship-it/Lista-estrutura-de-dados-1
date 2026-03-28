@@ -1,6 +1,7 @@
 //Ler um número e imprimir seu quadrado
 
 #include <stdio.h>
+#include <math.h>
 
 int main() {
     int num, square;
